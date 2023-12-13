@@ -1,0 +1,21 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïàá‹şÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒİ´ìûÿÿÿÿ
+k	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±¹Ùùÿÿÿÿ
+k	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ùíÂúÿÿÿÿ
+k	java:S117%"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İçÄİüÿÿÿÿ
+f	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§´®ú
+k	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì—ìüÿÿÿÿ
+f	java:S117*"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÕ—ì
+f	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î’Ö‘
+e	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­öŸP
+f	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËßŒÎ
+f	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉÜØ
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ËßŒÎ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÉÜØ
+m	java:S116"SRename this field "txt_num1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö„´ÿÿÿÿÿ
+m	java:S116"SRename this field "txt_num2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö„´ÿÿÿÿÿ
+A
+java:S1659"&Declare "txt_num2" on a separate line.(Ö„´ÿÿÿÿÿ
+a
+java:S18716"LThis branch's code block is the same as the block for the branch on line 50.(‹ÍÙ%
